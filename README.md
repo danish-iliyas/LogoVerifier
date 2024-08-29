@@ -1,5 +1,5 @@
 
-![1. Main Dashboard](https://github.com/user-attachments/assets/5ced6d2e-72b1-497d-af62-cacee0129517)
+1![1. Main Dashboard](https://github.com/user-attachments/assets/5ced6d2e-72b1-497d-af62-cacee0129517)
 
 ![2.Upload Product and Your Logo.](https://github.com/user-attachments/assets/0504f693-4b1f-4c69-acec-7cf6ec9f89a2)
 ![3.Rotate or resize the logo on the product to enhance its visual appeal.

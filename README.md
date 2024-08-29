@@ -1,3 +1,0 @@
-# LogoVerifier
-# LogoVerifier
-# LogoVerifier
